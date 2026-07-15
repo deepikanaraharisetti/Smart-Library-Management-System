@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="DELETE">
+        <associated_types/>
+        <bundles/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[]</composition>
+        <da_relay_models/>
+        <data>[]</data>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <dispatched_events>9965b79853030110aab9ddeeff7b1240</dispatched_events>
+        <ext_controller_dep/>
+        <extends display_value="Technical dashboard template">2395ddb853772110784cddeeff7b1251</extends>
+        <extension_point/>
+        <form_factors>{}</form_factors>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{}</internal_event_mappings>
+        <keyboard_shortcuts>{}</keyboard_shortcuts>
+        <layout/>
+        <macroponent_dependencies/>
+        <name>Library Management Dashboard default</name>
+        <output_prop_mapping/>
+        <props/>
+        <required_sys_props/>
+        <required_translations>[ ]</required_translations>
+        <root_component/>
+        <root_component_config/>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_persistence_config>[]</state_persistence_config>
+        <state_properties>[]</state_properties>
+        <style_config>{}</style_config>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-11 18:30:25</sys_created_on>
+        <sys_id>6c94e34147cec310cbc3392f316d43d8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Library Management Dashboard default</sys_name>
+        <sys_package display_value="Library Management System" source="x_2137772_librar_0">0975a3c4474e4310cbc3392f316d4304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</sys_scope>
+        <sys_update_name>sys_ux_macroponent_6c94e34147cec310cbc3392f316d43d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-11 18:30:27</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="DELETE" query="documentkey=6c94e34147cec310cbc3392f316d43d8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</application>
+        <file_path/>
+        <instance_id>8a20c9d2ff290bd4c812f8e4fc4fd950</instance_id>
+        <instance_name>dev409677</instance_name>
+        <name>sys_ux_macroponent_6c94e34147cec310cbc3392f316d43d8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent"><sys_ux_macroponent action="INSERT_OR_UPDATE"><associated_types/><bundles/><category>page</category><component_dependencies/><composition>[]</composition><da_relay_models/><data>[]</data><description/><disable_auto_reflow>false</disable_auto_reflow><dispatched_events>9965b79853030110aab9ddeeff7b1240</dispatched_events><ext_controller_dep/><extends display_value="Technical dashboard template">2395ddb853772110784cddeeff7b1251</extends><extension_point/><form_factors>{}</form_factors><handled_events/><interactions/><interfaces/><internal_event_mappings>{}</internal_event_mappings><keyboard_shortcuts>{}</keyboard_shortcuts><layout/><macroponent_dependencies/><name>Library Management Dashboard default</name><output_prop_mapping/><props/><required_sys_props/><required_translations>[ ]</required_translations><root_component/><root_component_config/><root_component_definition/><schema_version>1.0.0</schema_version><state_persistence_config>[]</state_persistence_config><state_properties>[]</state_properties><style_config>{}</style_config><sys_class_name>sys_ux_macroponent</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-11 18:30:25</sys_created_on><sys_id>6c94e34147cec310cbc3392f316d43d8</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Library Management Dashboard default</sys_name><sys_package display_value="Library Management System" source="x_2137772_librar_0">0975a3c4474e4310cbc3392f316d4304</sys_package><sys_policy/><sys_scope display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</sys_scope><sys_update_name>sys_ux_macroponent_6c94e34147cec310cbc3392f316d43d8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-11 18:30:27</sys_updated_on></sys_ux_macroponent><sys_translated_text action="delete_multiple" query="documentkey=6c94e34147cec310cbc3392f316d43d8"/></record_update>]]></payload>
+        <payload_hash>124831628</payload_hash>
+        <record_name>Library Management Dashboard default</record_name>
+        <reverted_from/>
+        <source>8975a3c4474e4310cbc3392f316d4357</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-11 18:30:27</sys_created_on>
+        <sys_id>7494274147cec310cbc3392f316d4376</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19f5271f49d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-11 18:30:27</sys_updated_on>
+        <type>UX Macroponent Definition</type>
+        <update_guid>3494274115cec310c4e87e9d8f0da575</update_guid>
+        <update_guid_history>3494274115cec310c4e87e9d8f0da575:124831628,7894274103cec31057bfe4dbf77df143:1261838370,a094274120cec310d8589fc8d29ec71f:296853024</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-12 06:03:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_macroponent">sys_ux_macroponent</sys_db_object>
+        <sys_id>01f33bcfc2694e5cb9ef2d10c7f00ca4</sys_id>
+        <sys_metadata>6c94e34147cec310cbc3392f316d43d8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Library Management Dashboard default</sys_name>
+        <sys_package display_value="Library Management System" source="x_2137772_librar_0">0975a3c4474e4310cbc3392f316d4304</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</sys_scope>
+        <sys_scope_delete display_value="">0f94c753a24643ea9c96299fb9128d04</sys_scope_delete>
+        <sys_update_name>sys_ux_macroponent_6c94e34147cec310cbc3392f316d43d8</sys_update_name>
+        <sys_update_version display_value="sys_ux_macroponent_6c94e34147cec310cbc3392f316d43d8">7494274147cec310cbc3392f316d4376</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-12 06:03:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

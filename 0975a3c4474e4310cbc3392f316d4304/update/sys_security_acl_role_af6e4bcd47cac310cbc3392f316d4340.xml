@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-11 16:53:42</sys_created_on>
+        <sys_id>af6e4bcd47cac310cbc3392f316d4340</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_2137772_librar_0.Student</sys_name>
+        <sys_package display_value="Library Management System" source="x_2137772_librar_0">0975a3c4474e4310cbc3392f316d4304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</sys_scope>
+        <sys_security_acl display_value="x_2137772_librar_0_book_issue">a24e0fcd47cac310cbc3392f316d438c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_af6e4bcd47cac310cbc3392f316d4340</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-11 16:53:42</sys_updated_on>
+        <sys_user_role display_value="x_2137772_librar_0.Student" name="x_2137772_librar_0.Student">02c3870d474ac310cbc3392f316d4338</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="5e99a300478e4310cbc3392f316d43c3" label="Members" max_length="40" name="x_2137772_librar_0_members" type="collection">
+        <element label="Join Date" max_length="40" name="join_date" type="glide_date_time"/>
+        <element label="Email" max_length="100" name="email" type="string"/>
+        <element label="Department" max_length="40" name="department" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="AIML" sequence="1" value="aiml"/>
+                <element inactive_on_update="false" label="CSE" sequence="0" value="cse"/>
+                <element inactive_on_update="false" label="Mechanical" sequence="5" value="mechanical"/>
+                <element inactive_on_update="false" label="EEE" sequence="3" value="eee"/>
+                <element inactive_on_update="false" label="MCA" sequence="7" value="mca"/>
+                <element inactive_on_update="false" label="Civil" sequence="4" value="civil"/>
+                <element inactive_on_update="false" label="ECE" sequence="2" value="ece"/>
+                <element inactive_on_update="false" label="MBA" sequence="6" value="mba"/>
+            </choice>
+        </element>
+        <element label="Member ID" max_length="40" name="member_id" type="string"/>
+        <element label="Phone Number" max_length="10" name="phone_number" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Active" sequence="0" value="active"/>
+                <element inactive_on_update="false" label="Inactive" sequence="1" value="inactive"/>
+            </choice>
+        </element>
+    </element>
+</database>

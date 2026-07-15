@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="cc96a748474e4310cbc3392f316d436b" label="Books" max_length="40" name="x_2137772_librar_0_books" type="collection">
+        <element label="Author" max_length="40" name="author" type="string"/>
+        <element label="Available" max_length="40" name="available" type="boolean"/>
+        <element label="ISBN" max_length="40" name="isbn" type="string"/>
+        <element label="Book ID" max_length="40" name="book_id" type="string"/>
+        <element label="Total Copies" max_length="40" name="total_copies" type="integer"/>
+        <element display="true" label="Title" max_length="40" name="title" type="string"/>
+        <element choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="History" sequence="4" value="history"/>
+                <element inactive_on_update="false" label="Science" sequence="2" value="science"/>
+                <element inactive_on_update="false" label="Education" sequence="6" value="education"/>
+                <element inactive_on_update="false" label="Magazine" sequence="7" value="magazine"/>
+                <element inactive_on_update="false" label="Biography" sequence="5" value="biography"/>
+                <element inactive_on_update="false" label="Technology" sequence="3" value="technology"/>
+                <element inactive_on_update="false" label="Fiction" sequence="0" value="fiction"/>
+                <element inactive_on_update="false" label="Non-Fiction" sequence="1" value="non_fiction"/>
+            </choice>
+        </element>
+    </element>
+</database>

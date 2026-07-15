@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="DELETE">
+        <can_read>true</can_read>
+        <can_share>true</can_share>
+        <can_write>true</can_write>
+        <dashboard display_value="Library Management Dashboard">23c3a3cd478ec310cbc3392f316d432b</dashboard>
+        <group/>
+        <owner>true</owner>
+        <role/>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-11 18:27:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6fc3a3cd478ec310cbc3392f316d432f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>23c3a3cd478ec310cbc3392f316d432b</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Library Management System" source="x_2137772_librar_0">0975a3c4474e4310cbc3392f316d4304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</sys_scope>
+        <sys_update_name>par_dashboard_permission_6fc3a3cd478ec310cbc3392f316d432f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-11 18:27:05</sys_updated_on>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+    </par_dashboard_permission>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</application>
+        <file_path/>
+        <instance_id>8a20c9d2ff290bd4c812f8e4fc4fd950</instance_id>
+        <instance_name>dev409677</instance_name>
+        <name>par_dashboard_permission_6fc3a3cd478ec310cbc3392f316d432f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission"><par_dashboard_permission action="INSERT_OR_UPDATE"><can_read>true</can_read><can_share>true</can_share><can_write>true</can_write><dashboard display_value="Library Management Dashboard">23c3a3cd478ec310cbc3392f316d432b</dashboard><group/><owner>true</owner><role/><sys_class_name>par_dashboard_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-11 18:27:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6fc3a3cd478ec310cbc3392f316d432f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>23c3a3cd478ec310cbc3392f316d432b</sys_name><sys_overrides/><sys_package display_value="Library Management System" source="x_2137772_librar_0">0975a3c4474e4310cbc3392f316d4304</sys_package><sys_policy/><sys_scope display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</sys_scope><sys_update_name>par_dashboard_permission_6fc3a3cd478ec310cbc3392f316d432f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-11 18:27:05</sys_updated_on><user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user></par_dashboard_permission></record_update>]]></payload>
+        <payload_hash>1898368629</payload_hash>
+        <record_name>23c3a3cd478ec310cbc3392f316d432b</record_name>
+        <reverted_from/>
+        <source>8975a3c4474e4310cbc3392f316d4357</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-11 18:27:05</sys_created_on>
+        <sys_id>efc32bcd478ec310cbc3392f316d4354</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19f526edf270000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-11 18:27:05</sys_updated_on>
+        <type>PAR Dashboard Permission</type>
+        <update_guid>6fc32bcde68ec310fb5fe7df45eb9053</update_guid>
+        <update_guid_history>6fc32bcde68ec310fb5fe7df45eb9053:1898368629</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">e883029d47824710cbc3392f316d434c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-12 06:04:51</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_permission">par_dashboard_permission</sys_db_object>
+        <sys_id>22625c5a779846d09e974bd9651ec884</sys_id>
+        <sys_metadata>6fc3a3cd478ec310cbc3392f316d432f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>23c3a3cd478ec310cbc3392f316d432b</sys_name>
+        <sys_package display_value="Library Management System" source="x_2137772_librar_0">0975a3c4474e4310cbc3392f316d4304</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</sys_scope>
+        <sys_scope_delete display_value="">0f94c753a24643ea9c96299fb9128d04</sys_scope_delete>
+        <sys_update_name>par_dashboard_permission_6fc3a3cd478ec310cbc3392f316d432f</sys_update_name>
+        <sys_update_version display_value="par_dashboard_permission_6fc3a3cd478ec310cbc3392f316d432f">efc32bcd478ec310cbc3392f316d4354</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-12 06:04:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

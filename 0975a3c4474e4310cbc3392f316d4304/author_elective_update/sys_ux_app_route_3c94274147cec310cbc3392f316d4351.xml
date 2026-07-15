@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Advanced Dashboards">02dc36706f01011089060168e25b3691</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <interoperable>false</interoperable>
+        <name>Library Management Dashboard</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell - Advanced">47bcb58553030110aab9ddeeff7b12c2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>library_management_dashboard32323742</route_type>
+        <screen_type display_value="Library Management Dashboard">1c94e34147cec310cbc3392f316d43d2</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-11 18:30:27</sys_created_on>
+        <sys_id>3c94274147cec310cbc3392f316d4351</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Library Management Dashboard</sys_name>
+        <sys_package display_value="Library Management System" source="x_2137772_librar_0">0975a3c4474e4310cbc3392f316d4304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</sys_scope>
+        <sys_update_name>sys_ux_app_route_3c94274147cec310cbc3392f316d4351</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-11 18:30:27</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=3c94274147cec310cbc3392f316d4351"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</application>
+        <file_path/>
+        <instance_id>8a20c9d2ff290bd4c812f8e4fc4fd950</instance_id>
+        <instance_name>dev409677</instance_name>
+        <name>sys_ux_app_route_3c94274147cec310cbc3392f316d4351</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Advanced Dashboards">02dc36706f01011089060168e25b3691</app_config><description/><extension_point/><fields/><icon/><interoperable>false</interoperable><name>Library Management Dashboard</name><optional_parameters/><order>0</order><parent_macroponent display_value="UXR Base Experience Shell - Advanced">47bcb58553030110aab9ddeeff7b12c2</parent_macroponent><parent_macroponent_composition_element_id/><route_type>library_management_dashboard32323742</route_type><screen_type display_value="Library Management Dashboard">1c94e34147cec310cbc3392f316d43d2</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-11 18:30:27</sys_created_on><sys_id>3c94274147cec310cbc3392f316d4351</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Library Management Dashboard</sys_name><sys_package display_value="Library Management System" source="x_2137772_librar_0">0975a3c4474e4310cbc3392f316d4304</sys_package><sys_policy/><sys_scope display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</sys_scope><sys_update_name>sys_ux_app_route_3c94274147cec310cbc3392f316d4351</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-11 18:30:27</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=3c94274147cec310cbc3392f316d4351"/></record_update>]]></payload>
+        <payload_hash>707650141</payload_hash>
+        <record_name>Library Management Dashboard</record_name>
+        <reverted_from/>
+        <source>8975a3c4474e4310cbc3392f316d4357</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-11 18:30:27</sys_created_on>
+        <sys_id>b894274147cec310cbc3392f316d4357</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19f5271f3f10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-11 18:30:27</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>389427414acec31055628473c1de6156</update_guid>
+        <update_guid_history>389427414acec31055628473c1de6156:707650141</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-12 06:03:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>34f75f59f1814cc7bdaf7b3f9c533911</sys_id>
+        <sys_metadata>3c94274147cec310cbc3392f316d4351</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Library Management Dashboard</sys_name>
+        <sys_package display_value="Library Management System" source="x_2137772_librar_0">0975a3c4474e4310cbc3392f316d4304</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</sys_scope>
+        <sys_scope_delete display_value="">0f94c753a24643ea9c96299fb9128d04</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_3c94274147cec310cbc3392f316d4351</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_3c94274147cec310cbc3392f316d4351">b894274147cec310cbc3392f316d4357</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-12 06:03:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

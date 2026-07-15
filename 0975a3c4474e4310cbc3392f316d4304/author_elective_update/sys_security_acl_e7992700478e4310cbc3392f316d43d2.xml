@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Existing</local_or_existing>
+        <name>x_2137772_librar_0_members</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-08 16:18:34</sys_created_on>
+        <sys_id>e7992700478e4310cbc3392f316d43d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2137772_librar_0_members</sys_name>
+        <sys_package display_value="Library Management System" source="x_2137772_librar_0">0975a3c4474e4310cbc3392f316d4304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</sys_scope>
+        <sys_update_name>sys_security_acl_e7992700478e4310cbc3392f316d43d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-08 16:18:34</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</application>
+        <file_path/>
+        <instance_id>8a20c9d2ff290bd4c812f8e4fc4fd950</instance_id>
+        <instance_name>dev409677</instance_name>
+        <name>sys_security_acl_e7992700478e4310cbc3392f316d43d2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_2137772_librar_0_members</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-08 16:18:34</sys_created_on><sys_id>e7992700478e4310cbc3392f316d43d2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2137772_librar_0_members</sys_name><sys_package display_value="Library Management System" source="x_2137772_librar_0">0975a3c4474e4310cbc3392f316d4304</sys_package><sys_policy/><sys_scope display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</sys_scope><sys_update_name>sys_security_acl_e7992700478e4310cbc3392f316d43d2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-08 16:18:34</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1164214457</payload_hash>
+        <record_name>x_2137772_librar_0_members</record_name>
+        <reverted_from/>
+        <source>8975a3c4474e4310cbc3392f316d4357</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-08 16:18:34</sys_created_on>
+        <sys_id>ab992700478e4310cbc3392f316d43d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19f428621a70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-08 16:18:34</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>6b992700a18e4310de6a2f15d87089d6</update_guid>
+        <update_guid_history>6b992700a18e4310de6a2f15d87089d6:-1164214457</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-11 16:41:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>01d43bae1f4c4b258029413e712f5141</sys_id>
+        <sys_metadata>e7992700478e4310cbc3392f316d43d2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2137772_librar_0_members</sys_name>
+        <sys_package display_value="Library Management System" source="x_2137772_librar_0">0975a3c4474e4310cbc3392f316d4304</sys_package>
+        <sys_parent display_value="x_2137772_librar_0_members">d299a300478e4310cbc3392f316d43c6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</sys_scope>
+        <sys_scope_delete display_value="">0f94c753a24643ea9c96299fb9128d04</sys_scope_delete>
+        <sys_update_name>sys_security_acl_e7992700478e4310cbc3392f316d43d2</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_e7992700478e4310cbc3392f316d43d2">ab992700478e4310cbc3392f316d43d7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-11 16:41:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="fb7ca384478e4310cbc3392f316d43bf" label="Book Issue" max_length="40" name="x_2137772_librar_0_book_issue" type="collection">
+        <element label="Issue Date" max_length="40" name="issue_date" type="glide_date_time"/>
+        <element label="Return Date" max_length="40" name="return_date" type="glide_date_time"/>
+        <element label="Due Date" max_length="40" name="due_date" type="glide_date_time"/>
+        <element label="Issue ID" max_length="40" name="issue_id" type="string"/>
+        <element label="Book" max_length="32" name="book" reference="x_2137772_librar_0_books" type="reference"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Overde" sequence="2" value="overde"/>
+                <element inactive_on_update="false" label="Issued" sequence="0" value="issued"/>
+                <element inactive_on_update="false" label="Returned" sequence="1" value="returned"/>
+            </choice>
+        </element>
+        <element display="true" label="Member" max_length="32" name="member" reference="x_2137772_librar_0_members" type="reference"/>
+        <index name="index">
+            <element name="book"/>
+        </index>
+        <index name="index2">
+            <element name="member"/>
+        </index>
+    </element>
+</database>

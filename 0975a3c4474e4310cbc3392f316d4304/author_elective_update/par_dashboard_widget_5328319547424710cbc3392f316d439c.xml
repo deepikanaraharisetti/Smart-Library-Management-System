@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">8e83b9d947024710cbc3392f316d43df</canvas>
+        <component display_value="Divider">8cd779b506633a71bf8d127531094cdc</component>
+        <component_props>{"orientation":"vertical","layout":"fixedlength","length":"300","color":{"themeVariable":"--now-color_border--tertiary","value":"#d7e1e5"}}</component_props>
+        <h>13</h>
+        <name/>
+        <required_translations>[]</required_translations>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-12 05:15:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5328319547424710cbc3392f316d439c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Library Management System" source="x_2137772_librar_0">0975a3c4474e4310cbc3392f316d4304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</sys_scope>
+        <sys_update_name>par_dashboard_widget_5328319547424710cbc3392f316d439c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-12 05:15:20</sys_updated_on>
+        <visualization/>
+        <w>13</w>
+        <widget_props/>
+        <x>0</x>
+        <y>12</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</application>
+        <file_path/>
+        <instance_id>8a20c9d2ff290bd4c812f8e4fc4fd950</instance_id>
+        <instance_name>dev409677</instance_name>
+        <name>par_dashboard_widget_5328319547424710cbc3392f316d439c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">8e83b9d947024710cbc3392f316d43df</canvas><component display_value="Divider">8cd779b506633a71bf8d127531094cdc</component><component_props>{"orientation":"vertical","layout":"fixedlength","length":"300","color":{"themeVariable":"--now-color_border--tertiary","value":"#d7e1e5"}}</component_props><h>13</h><name/><required_translations>[]</required_translations><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-12 05:15:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5328319547424710cbc3392f316d439c</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Library Management System" source="x_2137772_librar_0">0975a3c4474e4310cbc3392f316d4304</sys_package><sys_policy/><sys_scope display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</sys_scope><sys_update_name>par_dashboard_widget_5328319547424710cbc3392f316d439c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-12 05:15:20</sys_updated_on><visualization/><w>13</w><widget_props/><x>0</x><y>12</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-367706908</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>8975a3c4474e4310cbc3392f316d4357</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-12 05:15:20</sys_created_on>
+        <sys_id>9728319547424710cbc3392f316d43b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19f54c05b4e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-12 05:15:20</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>572831954d424710d38fa1966ff73fb7</update_guid>
+        <update_guid_history>572831954d424710d38fa1966ff73fb7:-367706908</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">0a6eb5d147824710cbc3392f316d430d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-12 05:42:33</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>6843c7e26e044453b1c0cbd5fd3ad159</sys_id>
+        <sys_metadata>5328319547424710cbc3392f316d439c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Library Management System" source="x_2137772_librar_0">0975a3c4474e4310cbc3392f316d4304</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Library Management System">0975a3c4474e4310cbc3392f316d4304</sys_scope>
+        <sys_scope_delete display_value="">0f94c753a24643ea9c96299fb9128d04</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_5328319547424710cbc3392f316d439c</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_5328319547424710cbc3392f316d439c">9728319547424710cbc3392f316d43b8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-12 05:42:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
