@@ -12,6 +12,7 @@
 
 Add demo screenshots here (Home Page, Book Issue, Fine Table, Dashboard) — see the full documentation PDF in `7. Project Documentation/` for reference figures.
 
-## Demo Video
 
-_Add a link to your recorded walkthrough video here._
+## Demo Video
+[Watch the demo video on Google Drive](https://drive.google.com/drive/folders/1tBbnh77YRQ5dKI8IrWF3fX80F_6cZi4j?usp=sharing)
+
