@@ -1,0 +1,6 @@
+# Mark ServiceNow-generated/exported files so GitHub doesn't count them
+# toward the repo's language statistics or highlight them in diffs.
+
+*.xml linguist-generated=true
+sn_source_control.properties linguist-generated=true
+0975a3c4474e4310cbc3392f316d4304/** linguist-generated=true
